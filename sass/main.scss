@@ -9,16 +9,18 @@
 @import "base/utilities";
 
 
+@import "components/form";
+@import "components/bg-video";
+@import "components/story";
 @import "components/button";
 @import "components/card";
 @import "components/composition";
 @import "components/feature-box";
 
 
-
-
 @import "layout/grid";
 @import "layout/header";
+@import "layout/footer";
 
 
 @import "pages/home";
